@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeps101&label=Profile%20views&color=0e75b6&style=flat" alt="deeps101" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deeps20490872" target="blank"><img src="https://img.shields.io/twitter/follow/deeps20490872?logo=twitter&style=for-the-badge" alt="deeps20490872" /></a> </p>
-<img align="right"alt="Coding"width="400"src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F6e%2F5c%2Fa0%2F6e5ca07989995b91561e2dd8b380bd9f.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F407716572502799981%2F&tbnid=q4jQGY6t8GsEVM&vet=12ahUKEwjMzJGknJzxAhVikUsFHSG1AWQQMygEegUIARDyAQ..i&docid=xm17f3GRutt3WM&w=800&h=600&q=computer%20technologies%20motivations%20gifs&ved=2ahUKEwjMzJGknJzxAhVikUsFHSG1AWQQMygEegUIARDyAQ">
+<img align="right"alt="Coding"width="400"src="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK">
 
 - 🔭 I’m currently **Computer Science Undergraduate**
 
