@@ -4,6 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeps101&label=Profile%20views&color=0e75b6&style=flat" alt="deeps101" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deeps20490872" target="blank"><img src="https://img.shields.io/twitter/follow/deeps20490872?logo=twitter&style=for-the-badge" alt="deeps20490872" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/GIF/image.gif">
 
 - 🔭 I’m currently **Computer Science Undergraduate**
 
@@ -11,7 +12,7 @@
 
 - 💬 Ask me about **anything, I would be glad to help(if I could)**
 
-- 📫 How to reach me **deepakkumarroul101@gmail.com**
+- 📫 You can reach me **deepakkumarroul101@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
