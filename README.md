@@ -4,7 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeps101&label=Profile%20views&color=0e75b6&style=flat" alt="deeps101" /> </p>
 
 <p align="left"> <a href="https://twitter.com/deeps20490872" target="blank"><img src="https://img.shields.io/twitter/follow/deeps20490872?logo=twitter&style=for-the-badge" alt="deeps20490872" /></a> </p>
-<img align="right"alt="Coding"width="400"src="https://giphy.com/gifs/animation-work-job-pOZhmE42D1WrCWATLK">
 
 - 🔭 I’m currently **Computer Science Undergraduate**
 
